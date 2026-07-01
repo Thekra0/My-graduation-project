@@ -2,8 +2,6 @@
 
 A security-focused web application that demonstrates secure payment gateway integration using the PayPal Sandbox environment. This project was developed as a graduation project to showcase secure software development practices in payment systems.
 
-> This project is an educational prototype designed for learning and demonstration purposes. It is not intended for production use.
-
 ---
 
 ## Features
@@ -96,7 +94,6 @@ Add screenshots of:
 
 A security-focused web application that demonstrates secure payment gateway integration using the PayPal Sandbox environment. This project was developed as a graduation project to showcase secure software development practices in payment systems.
 
-> This project is an educational prototype designed for learning and demonstration purposes. It is not intended for production use.
 
 ---
 
@@ -197,11 +194,6 @@ project/
 - Docker Deployment
 - CI/CD Security Pipeline
 
----
-
-## Disclaimer
-
-This project was developed for educational purposes using the PayPal Sandbox environment. No real payment information or financial transactions are processed.
 ---
 
 ## Skills Demonstrated
